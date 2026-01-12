@@ -1,0 +1,1284 @@
+[
+  {
+    "title": "ACCU Conference",
+    "description": "ACCU is the conference for developers and programmers who are devoted and passionate about their profession.",
+    "tags": [
+      "C",
+      "C++"
+    ],
+    "links": [
+      {
+        "title": "Website",
+        "url": "http://accu.org/"
+      },
+      {
+        "title": "YouTube",
+        "url": "https://www.youtube.com/@ACCUConf"
+      }
+    ]
+  },
+  {
+    "title": "AI Council",
+    "description": "AI Council is the “No BS” AI conference. Since 2013 we've been bringing together the brightest minds in data to share insider industry knowledge, technical architectures and best practices on building the cutting edge data processing systems and tools of the future.",
+    "tags": [
+      "AI",
+      "Data Engineering"
+    ],
+    "links": [
+      {
+        "title": "Website",
+        "url": "https://aicouncil.com/"
+      },
+      {
+        "title": "YouTube",
+        "url": "https://www.youtube.com/@aicouncilconf"
+      }
+    ]
+  },
+  {
+    "title": "All Things Open",
+    "description": "A universe of events and platforms focused on open source, open tech and the open web.",
+    "tags": [
+      "Open Source Software"
+    ],
+    "links": [
+      {
+        "title": "Website",
+        "url": "http://allthingsopen.org/"
+      },
+      {
+        "title": "YouTube",
+        "url": "https://www.youtube.com/@allthingsopen"
+      }
+    ]
+  },
+  {
+    "title": "Apple Worldwide Developers Conference (WWDC)",
+    "description": "Apple’s Worldwide Developers Conference introduced powerful new capabilities, design updates, and innovative tools across every platform. Catch up on the latest sessions, documentation, and resources.",
+    "tags": [
+      "Apple",
+      "macOS",
+      "iOS"
+    ],
+    "links": [
+      {
+        "title": "Website",
+        "url": "https://developer.apple.com/wwdc/"
+      },
+      {
+        "title": "Video Archive",
+        "url": "https://developer.apple.com/videos/all-videos/"
+      }
+    ]
+  },
+  {
+    "title": "AtmosphereConference",
+    "links": [
+      {
+        "title": "YouTube",
+        "url": "https://www.youtube.com/@AtmosphereConference"
+      }
+    ]
+  },
+  {
+    "title": "BetterSoftwareConference",
+    "description": "Software is getting worse. We're here to make it better.",
+    "links": [
+      {
+        "title": "YouTube",
+        "url": "https://www.youtube.com/@BetterSoftwareConference"
+      }
+    ]
+  },
+  {
+    "title": "Black Hat",
+    "description": "Black Hat is the most technical and relevant information security event series in the world.",
+    "tags": [
+      "Hacking",
+      "Security"
+    ],
+    "links": [
+      {
+        "title": "Website",
+        "url": "https://blackhat.com/"
+      },
+      {
+        "title": "YouTube",
+        "url": "https://www.youtube.com/@BlackHatOfficialYT"
+      },
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Black_Hat_Briefings"
+      }
+    ]
+  },
+  {
+    "title": "Build Stuff",
+    "description": "“BUILD STUFF” is a Software Development Conference for people who actually build stuff.",
+    "links": [
+      {
+        "title": "Website",
+        "url": "https://buildstuff.events/"
+      },
+      {
+        "title": "YouTube",
+        "url": "https://www.youtube.com/@BuildStuff"
+      }
+    ]
+  },
+  {
+    "title": "C++Now (CppNow)",
+    "description": "C++Now is an annual programming conference put on by the Boost Foundation, a 501(c)3 non-profit incorporated in the state of Delaware, USA.",
+    "tags": [
+      "C++"
+    ],
+    "links": [
+      {
+        "title": "Website",
+        "url": "https://cppnow.org/"
+      },
+      {
+        "title": "YouTube",
+        "url": "https://www.youtube.com/@CppNow"
+      }
+    ]
+  },
+  {
+    "title": "Chaos Computer Club",
+    "description": "The Chaos Computer Club e. V. (CCC) is Europe's largest association of hackers.",
+    "tags": [
+      "Hacking"
+    ],
+    "links": [
+      {
+        "title": "Website",
+        "url": "https://www.ccc.de/"
+      },
+      {
+        "title": "Video Archive",
+        "url": "https://media.ccc.de/"
+      },
+      {
+        "title": "YouTube",
+        "url": "https://www.youtube.com/user/mediacccde"
+      }
+    ]
+  },
+  {
+    "title": "Clojure/Conj",
+    "description": "ClojureTV brings together talks and presentations from the community and major Clojure conferences.",
+    "tags": [
+      "Clojure",
+      "Functional Programming"
+    ],
+    "links": [
+      {
+        "title": "Website",
+        "url": "https://clojure.org/"
+      },
+      {
+        "title": "YouTube (ClojureTV)",
+        "url": "https://www.youtube.com/@ClojureTV"
+      }
+    ]
+  },
+  {
+    "title": "Clojure/north",
+    "description": "Canada's annual Clojure conference held in Toronto!",
+    "tags": [
+      "Clojure",
+      "Functional Programming"
+    ],
+    "links": [
+      {
+        "title": "Website",
+        "url": "https://clojurenorth.com/"
+      },
+      {
+        "title": "YouTube (Clojure/north)",
+        "url": "https://www.youtube.com/@clojurenorth4011"
+      }
+    ]
+  },
+  {
+    "title": "Cloud Native (KubeCon + CloudNativeCon)",
+    "description": "Educational content on CNCF projects, like Kubernetes and Prometheus.",
+    "tags": [
+      "Kubernetes",
+      "Prometheus",
+      "Cloud",
+      "Web"
+    ],
+    "links": [
+      {
+        "title": "Website (Cloud Native Computing Foundation)",
+        "url": "https://www.cncf.io/"
+      },
+      {
+        "title": "Website (Linux Foundation)",
+        "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/"
+      },
+      {
+        "title": "YouTube",
+        "url": "https://www.youtube.com/@cncf"
+      },
+      {
+        "title": "GitHub",
+        "url": "https://github.com/cncf"
+      }
+    ]
+  },
+  {
+    "title": "CloudFest",
+    "description": "CloudFest is the #1 internet infrastructure event in the world, connecting the global cloud computing industry: you’ll form the partnerships that help you reach your business goals, and have a great time doing it.",
+    "tags": [
+      "Cloud",
+      "Web"
+    ],
+    "links": [
+      {
+        "title": "Website",
+        "url": "https://www.cloudfest.com/"
+      },
+      {
+        "title": "YouTube",
+        "url": "https://www.youtube.com/@CloudFest"
+      }
+    ]
+  },
+  {
+    "title": "Code Sync (Mixed Conference Videos)",
+    "description": "Code Sync is a family of tech conferences focused on Erlang, Elixir and functional programming. Our events: Code BEAM, Code BEAM Lite, Lambda Days, ElixirConf EU and RabbitMQ Summit.",
+    "tags": [
+      "Functional Programming",
+      "Erlang",
+      "Elixir",
+      "Gleam",
+      "BEAM",
+      "Clojure",
+      "Scala",
+      "Lisp"
+    ],
+    "links": [
+      {
+        "title": "Website",
+        "url": "https://codesync.global/"
+      },
+      {
+        "title": "YouTube",
+        "url": "https://www.youtube.com/@CodeSync"
+      }
+    ]
+  },
+  {
+    "title": "code::dive conference",
+    "description": "code::dive is the largest C++ conference in the world and one of the key programming events in Europe, organized by Nokia since 2014.",
+    "tags": [
+      "C++"
+    ],
+    "links": [
+      {
+        "title": "Website",
+        "url": "https://codedive.pl/"
+      },
+      {
+        "title": "YouTube",
+        "url": "https://www.youtube.com/@codediveconference"
+      }
+    ]
+  },
+  {
+    "title": "Confreaks (Mixed Conference Videos)",
+    "description": "Videos recorded by Confreaks, generally in the technology space.",
+    "links": [
+      {
+        "title": "Website",
+        "url": "http://confreaks.com/"
+      },
+      {
+        "title": "YouTube",
+        "url": "https://www.youtube.com/@Confreaks"
+      }
+    ]
+  },
+  {
+    "title": "CppCon",
+    "description": "CppCon is the annual, week-long face-to-face gathering for the entire C++ community.",
+    "tags": [
+      "C++"
+    ],
+    "links": [
+      {
+        "title": "Website",
+        "url": "https://cppcon.org/"
+      },
+      {
+        "title": "YouTube",
+        "url": "https://www.youtube.com/@CppCon"
+      }
+    ]
+  },
+  {
+    "title": "Craft Conference",
+    "description": "The CraftHub is an organization that makes knowledge available, helps communities to improve their abilities, and continuously develops it.",
+    "links": [
+      {
+        "title": "Website",
+        "url": "https://craft-conf.com/"
+      },
+      {
+        "title": "YouTube",
+        "url": "https://www.youtube.com/@crafthub.events"
+      }
+    ]
+  },
+  {
+    "title": "DebConf",
+    "description": "DebConf is the Debian Project's developer conference.",
+    "tags": [
+      "Debian",
+      "GNU/Linux"
+    ],
+    "links": [
+      {
+        "title": "Website",
+        "url": "https://www.debconf.org/"
+      },
+      {
+        "title": "YouTube",
+        "url": "https://www.youtube.com/@DebConfVideos"
+      }
+    ]
+  },
+  {
+    "title": "DEFCON",
+    "description": "DEF CON (also written as DEFCON, Defcon, or DC) is a hacker convention held annually in Las Vegas, Nevada.",
+    "tags": [
+      "Hacking",
+      "Security"
+    ],
+    "links": [
+      {
+        "title": "Website",
+        "url": "https://defcon.org/"
+      },
+      {
+        "title": "YouTube",
+        "url": "https://www.youtube.com/@DEFCONConference/"
+      },
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/DEF_CON"
+      }
+    ]
+  },
+  {
+    "title": "Devoxx",
+    "description": "Devoxx (previously known as JavaPolis) was founded by Stephan Janssen. Devoxx is a series of tech events organised by local community groups. Our mantra is “Content is King”, as a result these events see both internationally renowned speakers and local rock stars.",
+    "tags": [
+      "Java",
+      "JVM"
+    ],
+    "links": [
+      {
+        "title": "Website",
+        "url": "https://devoxx.com/"
+      },
+      {
+        "title": "YouTube",
+        "url": "https://www.youtube.com/@DevoxxForever"
+      }
+    ]
+  },
+  {
+    "title": "Domain-Driven Design Europe",
+    "description": "Domain-Driven Design Europe is the premier software modelling and design conference for senior engineers and architects working in complex environments.",
+    "links": [
+      {
+        "title": "Website",
+        "url": "http://dddeurope.com/"
+      },
+      {
+        "title": "YouTube",
+        "url": "https://www.youtube.com/@ddd_eu"
+      }
+    ]
+  },
+  {
+    "title": "Dyalog",
+    "description": "Videos from the Dyalog user meetings held each year. Dyalog delivers a world-class APL development environment that allows both Subject Matter Experts and IT specialists to efficiently convert their ideas into software solutions.",
+    "tags": [
+      "Dyalog",
+      "APL"
+    ],
+    "links": [
+      {
+        "title": "Website",
+        "url": "https://www.dyalog.com/"
+      },
+      {
+        "title": "YouTube",
+        "url": "https://www.youtube.com/@DyalogUserMeeting"
+      },
+      {
+        "title": "GitHub",
+        "url": "https://github.com/dyalog"
+      }
+    ]
+  },
+  {
+    "title": "EmacsConf",
+    "description": "EmacsConf is the conference about the joy of Emacs and Emacs Lisp.",
+    "tags": [
+      "Emacs",
+      "Text Editors"
+    ],
+    "links": [
+      {
+        "title": "Website",
+        "url": "https://emacsconf.org/"
+      },
+      {
+        "title": "YouTube",
+        "url": "https://www.youtube.com/@EmacsConf"
+      }
+    ]
+  },
+  {
+    "title": "Erlang Solutions",
+    "description": "Mixed conference videos (Erlang User Conference, ElixirConf EU, Lambda Days).",
+    "tags": [
+      "Functional Programming",
+      "Erlang",
+      "Elixir",
+      "Gleam",
+      "BEAM"
+    ],
+    "links": [
+      {
+        "title": "Website",
+        "url": "https://www.erlang-solutions.com/"
+      },
+      {
+        "title": "YouTube",
+        "url": "https://www.youtube.com/@ErlangSolutions"
+      }
+    ]
+  },
+  {
+    "title": "EuroPython",
+    "description": "EuroPython is the official European conference for the Python programming language.",
+    "tags": [
+      "Python"
+    ],
+    "links": [
+      {
+        "title": "Website",
+        "url": "https://europython.eu/"
+      },
+      {
+        "title": "YouTube",
+        "url": "https://www.youtube.com/@EuroPythonConference"
+      }
+    ]
+  },
+  {
+    "title": "FooCafe",
+    "description": "Foo Café is an independent and physical meeting place for people of all backgrounds and expertise within the IT-industry in the Malmö/Lund region.",
+    "links": [
+      {
+        "title": "Website",
+        "url": "https://foocafe.org/"
+      },
+      {
+        "title": "YouTube",
+        "url": "https://www.youtube.com/@FooCafeOrgMalmo"
+      }
+    ]
+  },
+  {
+    "title": "FOSDEM",
+    "description": "FOSDEM is a free event for software developers to meet, share ideas and collaborate.",
+    "tags": [
+      "GNU/Linux",
+      "Free Software",
+      "Open Source Software"
+    ],
+    "links": [
+      {
+        "title": "Website",
+        "url": "https://fosdem.org/"
+      },
+      {
+        "title": "Video Archive",
+        "url": "https://video.fosdem.org/"
+      },
+      {
+        "title": "YouTube",
+        "url": "https://www.youtube.com/@fosdemtalks"
+      }
+    ]
+  },
+  {
+    "title": "Full Stack Talks",
+    "description": "Curated videos from the Full Stack Talks meetup in Carlsbad, Co-hosted by Geoffrey Lessel (https://twitter.com/geolessel).",
+    "tags": [
+      "Web",
+      "JS",
+      "CSS"
+    ],
+    "links": [
+      {
+        "title": "YouTube",
+        "url": "https://www.youtube.com/@fullstacktalks"
+      }
+    ]
+  },
+  {
+    "title": "GDC Festival of Gaming (Game Developers Conference)",
+    "description": "GDC Festival of Gaming talks cover a range of developmental topics including game design, programming, audio, visual arts, business management, production, online games, and much more.",
+    "tags": [
+      "Game Development"
+    ],
+    "links": [
+      {
+        "title": "Website",
+        "url": "https://gdconf.com/"
+      },
+      {
+        "title": "YouTube",
+        "url": "https://www.youtube.com/@GDCFestivalofGaming"
+      }
+    ]
+  },
+  {
+    "title": "Google for Developers",
+    "description": "Subscribe to join a community of creative developers and learn the latest in Google technology — from AI and cloud, to mobile and web.",
+    "tags": [
+      "google",
+      "AI",
+      "llm",
+      "search engine",
+      "android",
+      "Web",
+      "data science"
+    ],
+    "links": [
+      {
+        "title": "Website",
+        "url": "https://developers.google.com/"
+      },
+      {
+        "title": "YouTube",
+        "url": "https://www.youtube.com/@GoogleDevelopers"
+      }
+    ]
+  },
+  {
+    "title": "Gopher Academy",
+    "description": "Gopher Academy is the creative force behind GopherCon, a conference celebrating all things Go!",
+    "tags": [
+      "Go",
+      "Golang"
+    ],
+    "links": [
+      {
+        "title": "Website",
+        "url": "https://www.gophercon.com/"
+      },
+      {
+        "title": "YouTube",
+        "url": "https://www.youtube.com/@GopherAcademy"
+      }
+    ]
+  },
+  {
+    "title": "GopherCon",
+    "description": "GopherCon is an annual conference that began in Denver, Colorado in 2014. Our conference is dedicated to the Go programming language and is organized with the help of a community-driven group of developers who wish to promote the use of Go, the formation of an inclusive and supportive Go community, and the education of Go developers.",
+    "tags": [
+      "Go",
+      "Golang",
+      "Google"
+    ],
+    "links": [
+      {
+        "title": "Website",
+        "url": "https://www.gophercon.com/"
+      }
+    ]
+  },
+  {
+    "title": "GopherCon Europe",
+    "description": "GopherCon Europe is the annual European conference for the Go programming language. Our goal is to bring together Go developers from all over the world to share their knowledge, experiences, and ideas.",
+    "tags": [
+      "Go",
+      "Golang",
+      "Europe"
+    ],
+    "links": [
+      {
+        "title": "Website",
+        "url": "https://gophercon.eu/"
+      },
+      {
+        "title": "YouTube",
+        "url": "https://www.youtube.com/@GopherConEurope"
+      }
+    ]
+  },
+  {
+    "title": "GopherCon UK",
+    "description": "GopherCon UK Conferences are held annually in the capital city of London.",
+    "tags": [
+      "Go",
+      "Golang",
+      "United Kingdom"
+    ],
+    "links": [
+      {
+        "title": "Website",
+        "url": "https://www.gophercon.co.uk/"
+      },
+      {
+        "title": "YouTube",
+        "url": "https://www.youtube.com/@GopherConUK"
+      }
+    ]
+  },
+  {
+    "title": "GOTO Conferences",
+    "description": "GOTO gathers the brightest minds in the software community to help developers tackle projects today, plan for tomorrow and create a better future.",
+    "tags": [
+      "Software Development"
+    ],
+    "links": [
+      {
+        "title": "Website",
+        "url": "https://gotopia.tech/"
+      },
+      {
+        "title": "YouTube",
+        "url": "https://www.youtube.com/@GOTO-"
+      }
+    ]
+  },
+  {
+    "title": "Handmade Cities",
+    "description": "We are the largest indie conferences for low-level programmers. This is your portal to meet with folks into graphics, game engines, kernels, compilers, and more!",
+    "links": [
+      {
+        "title": "Website",
+        "url": "https://handmadecities.com/"
+      },
+      {
+        "title": "Video Archive",
+        "url": "https://handmadecities.com/media/"
+      },
+      {
+        "title": "YouTube",
+        "url": "https://www.youtube.com/@HandmadeCities"
+      }
+    ]
+  },
+  {
+    "title": "InfoQ",
+    "description": "Helping dev teams adopt new technologies and practices. Written by software engineers. Read by over 1.5 million developers worldwide.",
+    "links": [
+      {
+        "title": "Website (InfoQ)",
+        "url": "https://www.infoq.com/"
+      },
+      {
+        "title": "Website (QCon)",
+        "url": "https://qconferences.com/"
+      },
+      {
+        "title": "YouTube",
+        "url": "https://www.youtube.com/@infoq"
+      }
+    ]
+  },
+  {
+    "title": "JavaOne",
+    "description": "JavaOne is designed by the Java team, for Java developers. It’s where the global Java community gathers to learn, connect, collaborate, and drive innovation.",
+    "tags": [
+      "Java"
+    ],
+    "links": [
+      {
+        "title": "Website",
+        "url": "https://www.oracle.com/javaone/"
+      },
+      {
+        "title": "YouTube",
+        "url": "https://www.youtube.com/java"
+      }
+    ]
+  },
+  {
+    "title": "jfokus",
+    "description": "Jfokus is all about developers! Java SE & Java EE, Frontend & Web, GenAI and AI, Continuous Delivery & DevOps, Cloud & Big Data, Future & Trends, Alt.JVM Languages, Agile development. And Norse gods...",
+    "tags": [
+      "Java",
+      "JVM",
+      "Web",
+      "Frontend"
+    ],
+    "links": [
+      {
+        "title": "Website",
+        "url": "https://www.jfokus.se/"
+      },
+      {
+        "title": "YouTube",
+        "url": "https://www.youtube.com/@JfokusTheConference"
+      }
+    ]
+  },
+  {
+    "title": "JSConf",
+    "description": "JSConf is a series of JavaScript conferences from around the world and here we release the conference talk videos for free as fast as we can after every event.",
+    "tags": [
+      "JavaScript",
+      "Web",
+      "CSS",
+      "Frontend",
+      "Backend"
+    ],
+    "links": [
+      {
+        "title": "Website",
+        "url": "https://jsconf.com/"
+      },
+      {
+        "title": "YouTube",
+        "url": "https://www.youtube.com/@jsconf_"
+      }
+    ]
+  },
+  {
+    "title": "JSHeroes",
+    "description": "JSHeroes was born out of our desire to build one of the strongest tech communities in our country (Romania) and to progress as a group.",
+    "tags": [
+      "JavaScript"
+    ],
+    "links": [
+      {
+        "title": "Website",
+        "url": "https://jsheroes.io/"
+      },
+      {
+        "title": "YouTube",
+        "url": "https://www.youtube.com/@JSHeroes"
+      }
+    ]
+  },
+  {
+    "title": "KotlinConf",
+    "description": "Kotlin Tutorials, Kotlin Multiplatform, Kotlin Coroutines, Kotlin Tips, Talking Kotlin Podcast.",
+    "tags": [
+      "Kotlin",
+      "Java",
+      "JVM"
+    ],
+    "links": [
+      {
+        "title": "Website",
+        "url": "https://kotlinconf.com/"
+      },
+      {
+        "title": "YouTube",
+        "url": "https://www.youtube.com/@Kotlin"
+      }
+    ]
+  },
+  {
+    "title": "Lambda Days",
+    "description": "For over a decade, Lambda Days has united the worlds of functional programming in academia and industry. This fusion of research and real-world applications continues to spark fresh ideas - no matter your level of expertise.",
+    "tags": [
+      "Functional Programming",
+      "Clojure",
+      "Scala",
+      "Lisp"
+    ],
+    "links": [
+      {
+        "title": "Website",
+        "url": "https://www.lambdadays.org/"
+      },
+      {
+        "title": "YouTube",
+        "url": "https://www.youtube.com/@CodeSync"
+      },
+      {
+        "title": "YouTube (2018 and before)",
+        "url": "https://www.youtube.com/@ErlangSolutions"
+      }
+    ]
+  },
+  {
+    "title": "Lambda World",
+    "description": "Lambda World is the Fun-Fun Functional Programming experience conference in Cádiz, Spain.",
+    "tags": [
+      "Functional Programming",
+      "Erlang",
+      "Elixir",
+      "Clojure",
+      "Scala"
+    ],
+    "links": [
+      {
+        "title": "Website",
+        "url": "https://www.lambda.world/"
+      },
+      {
+        "title": "YouTube",
+        "url": "https://www.youtube.com/@LambdaWorld"
+      }
+    ]
+  },
+  {
+    "title": "LeadDev",
+    "description": "Designed for lead developers, engineering managers, & CTOs, LeadDev is an online community that develops thought-leading content in the form of global conferences, meetups, and online content in the form of video talks, articles, panel discussions, and more designed with the needs and pain points of technical team leads in mind.",
+    "tags": [
+      "Leadership",
+      "Management"
+    ],
+    "links": [
+      {
+        "title": "Website",
+        "url": "https://leaddev.com/"
+      },
+      {
+        "title": "YouTube",
+        "url": "https://www.youtube.com/@LeadDev"
+      }
+    ]
+  },
+  {
+    "title": "Local-First Software (LoFi)",
+    "description": "Experience apps that work offline, keep your data private, and sync seamlessly across your devices. Your data stays with you, not locked in the cloud.",
+    "links": [
+      {
+        "title": "Website",
+        "url": "https://localfirstweb.dev/"
+      },
+      {
+        "title": "YouTube",
+        "url": "https://www.youtube.com/@local-first"
+      },
+      {
+        "title": "About",
+        "url": "https://www.inkandswitch.com/essay/local-first/"
+      }
+    ]
+  },
+  {
+    "title": "Meeting C++ (Meeting Cpp)",
+    "description": "Meeting C++ is an independent platform for C++, supporting the C++ community by sharing news, blogs and events for C++.",
+    "tags": [
+      "C++"
+    ],
+    "links": [
+      {
+        "title": "Website",
+        "url": "https://meetingcpp.com/"
+      },
+      {
+        "title": "YouTube",
+        "url": "https://www.youtube.com/@MeetingCPP"
+      }
+    ]
+  },
+  {
+    "title": "Metosin",
+    "description": "Software development is first and foremost a human process. Organisers of ClojuTRE.",
+    "tags": [
+      "Functional Programming",
+      "Clojure"
+    ],
+    "links": [
+      {
+        "title": "Website",
+        "url": "https://www.metosin.fi"
+      },
+      {
+        "title": "YouTube",
+        "url": "https://www.youtube.com/@Metosin"
+      }
+    ]
+  },
+  {
+    "title": "Microsoft Ignite",
+    "tags": [
+      "Microsoft"
+    ],
+    "links": [
+      {
+        "title": "Website",
+        "url": "https://ignite.microsoft.com/en-US/sessions"
+      }
+    ]
+  },
+  {
+    "title": "Microsoft Research",
+    "description": "At Microsoft Research, we accelerate scientific discovery and technology innovation to empower every person and organization on the planet to achieve more.",
+    "tags": [
+      "Microsoft",
+      "AI",
+      "LLM",
+      "Machine Learning",
+      ".NET"
+    ],
+    "links": [
+      {
+        "title": "Website",
+        "url": "https://microsoft.com/research"
+      },
+      {
+        "title": "YouTube",
+        "url": "https://www.youtube.com/@MicrosoftResearch"
+      }
+    ]
+  },
+  {
+    "title": "NDC Conferences",
+    "description": "NDC Conferences delivers high-end events for software developers, ranging from large 5-day conferences to smaller events and tailor made workshops.",
+    "links": [
+      {
+        "title": "Website",
+        "url": "https://ndcconferences.com/"
+      },
+      {
+        "title": "YouTube",
+        "url": "https://www.youtube.com/@NDC"
+      }
+    ]
+  },
+  {
+    "title": "Next.Js Conf",
+    "tags": [
+      "Next.js",
+      "JavaScript"
+    ],
+    "links": [
+      {
+        "title": "Website",
+        "url": "https://nextjs.org/conf"
+      },
+      {
+        "title": "YouTube",
+        "url": "https://www.youtube.com/@VercelHQ"
+      }
+    ]
+  },
+  {
+    "title": "NixCon",
+    "description": "NixCon is a community-oriented conference for contributors and users of Nix and NixOS.",
+    "tags": [
+      "NixOS",
+      "GNU/Linux"
+    ],
+    "links": [
+      {
+        "title": "Website",
+        "url": "https://nixcon.org/"
+      },
+      {
+        "title": "YouTube",
+        "url": "https://www.youtube.com/@NixCon"
+      }
+    ]
+  },
+  {
+    "title": "NOKIA Technology Center Wrocław",
+    "description": "Pre-2015 code::dive conference videos.",
+    "links": [
+      {
+        "title": "Website",
+        "url": "http://nokiawroclaw.pl/"
+      },
+      {
+        "title": "YouTube",
+        "url": "https://www.youtube.com/@NOKIAWroclawTechnologyCenter"
+      }
+    ]
+  },
+  {
+    "title": "NorfolkDevelopers",
+    "description": "We are very lucky in Norwich to have a thriving and highly active tech community.",
+    "links": [
+      {
+        "title": "YouTube",
+        "url": "https://www.youtube.com/@NorfolkDevelopers"
+      }
+    ]
+  },
+  {
+    "title": "Open Source Summit",
+    "description": "The Linux Foundation provides a neutral forum for collaboration and education by hosting Collaborative Projects, Linux conferences including LinuxCon, and generating original research and content that advances the understanding of Linux and collaborative software development.",
+    "tags": [
+      "Open Source Software"
+    ],
+    "links": [
+      {
+        "title": "Website",
+        "url": "https://www.linuxfoundation.org/"
+      },
+      {
+        "title": "YouTube",
+        "url": "https://www.youtube.com/@LinuxfoundationOrg"
+      }
+    ]
+  },
+  {
+    "title": "OWASP",
+    "description": "The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software.",
+    "tags": [
+      "AI",
+      "Security"
+    ],
+    "links": [
+      {
+        "title": "Website",
+        "url": "https://owasp.org/"
+      },
+      {
+        "title": "YouTube",
+        "url": "https://www.youtube.com/@OWASPGLOBAL"
+      }
+    ]
+  },
+  {
+    "title": "Pacific++",
+    "tags": [
+      "C++"
+    ],
+    "links": [
+      {
+        "title": "Website",
+        "url": "https://pacificplusplus.com/"
+      },
+      {
+        "title": "YouTube",
+        "url": "https://www.youtube.com/@Pacificplusplus"
+      }
+    ]
+  },
+  {
+    "title": "PyCon US",
+    "description": "PyCon US is the largest annual gathering for the community that uses and develops the open-source Python programming language.",
+    "tags": [
+      "Python"
+    ],
+    "links": [
+      {
+        "title": "Website",
+        "url": "https://us.pycon.org/"
+      },
+      {
+        "title": "YouTube",
+        "url": "https://www.youtube.com/@PyConUS"
+      }
+    ]
+  },
+  {
+    "title": "RacketCon",
+    "description": "RacketCon is a public gathering dedicated to fostering a vibrant, innovative, and inclusive community around the Racket programming language.",
+    "tags": [
+      "Racket",
+      "Scheme",
+      "Functional Programming"
+    ],
+    "links": [
+      {
+        "title": "Website",
+        "url": "https://con.racket-lang.org/"
+      },
+      {
+        "title": "YouTube",
+        "url": "https://www.youtube.com/@racketlang"
+      }
+    ]
+  },
+  {
+    "title": "React Conf",
+    "tags": [
+      "React",
+      "JavaScript"
+    ],
+    "links": [
+      {
+        "title": "Website",
+        "url": "https://conf.react.dev/"
+      },
+      {
+        "title": "YouTube",
+        "url": "https://www.youtube.com/@ReactConfOfficial"
+      }
+    ]
+  },
+  {
+    "title": "Recurse Center",
+    "description": "The Recurse Center is the retreat where curious programmers recharge and grow.",
+    "links": [
+      {
+        "title": "Website",
+        "url": "https://www.recurse.com/"
+      },
+      {
+        "title": "YouTube",
+        "url": "https://www.youtube.com/@RecurseCenter"
+      }
+    ]
+  },
+  {
+    "title": "Ruby Events",
+    "description": "Various Ruby events: RubyConf, RailsConf etc.",
+    "tags": [
+      "Ruby"
+    ],
+    "links": [
+      {
+        "title": "Website",
+        "url": "https://www.rubyevents.org/events"
+      },
+      {
+        "title": "Video Archive",
+        "url": "https://www.rubyevents.org/talks"
+      },
+      {
+        "title": "YouTube",
+        "url": "https://www.youtube.com/@RubyCentral"
+      }
+    ]
+  },
+  {
+    "title": "RustConf",
+    "description": "The community’s largest annual conference dedicated to discussions and content about the Rust programming language and the open source software ecosystem.",
+    "tags": [
+      "Rust",
+      "System Programming"
+    ],
+    "links": [
+      {
+        "title": "Website",
+        "url": "https://rustconf.com/"
+      },
+      {
+        "title": "YouTube (Rust Programming Language)",
+        "url": "https://www.youtube.com/@RustVideos"
+      },
+      {
+        "title": "YouTube (Rust Foundation)",
+        "url": "https://www.youtube.com/@rustfoundation"
+      }
+    ]
+  },
+  {
+    "title": "Scala Days",
+    "tags": [
+      "Scala",
+      "Java",
+      "JVM",
+      "Functional Programming"
+    ],
+    "links": [
+      {
+        "title": "Website",
+        "url": "https://scaladays.org/"
+      },
+      {
+        "title": "YouTube",
+        "url": "https://www.youtube.com/@ScalaDaysConferences"
+      }
+    ]
+  },
+  {
+    "title": "SeaGL (Seattle GNU/Linux Conference)",
+    "description": "Founded in 2013, SeaGL (the Seattle GNU/Linux Conference) is a free—as in freedom and tea—grassroots technical summit dedicated to spreading awareness and knowledge about free/libre/open source software, hardware, and culture.",
+    "tags": [
+      "GNU/Linux",
+      "Free Software"
+    ],
+    "links": [
+      {
+        "title": "Website",
+        "url": "https://seagl.org/"
+      },
+      {
+        "title": "Video Archive",
+        "url": "https://seagl.org/archive"
+      }
+    ]
+  },
+  {
+    "title": "Strange Loop Conference",
+    "description": "Strange Loop was a multi-disciplinary conference that brought together the developers and thinkers building tomorrow's technology in fields such as emerging languages, alternative databases, concurrency, distributed systems, security, and the web.",
+    "links": [
+      {
+        "title": "Website",
+        "url": "https://www.thestrangeloop.com/index.html"
+      },
+      {
+        "title": "YouTube",
+        "url": "https://www.youtube.com/@StrangeLoopConf"
+      }
+    ]
+  },
+  {
+    "title": "The D Language Foundation",
+    "description": "The D Language Foundation is a 501(c)(3) non-profit public charity devoted to advancing open source technology related to the D programming language.",
+    "tags": [
+      "Dlang"
+    ],
+    "links": [
+      {
+        "title": "Website",
+        "url": "https://dlang.org/"
+      },
+      {
+        "title": "YouTube",
+        "url": "https://www.youtube.com/@TheDLanguageFoundation"
+      }
+    ]
+  },
+  {
+    "title": "WeAreDevelopers",
+    "description": "With us, you'll dive into in-depth #techtalks, get the inside scoop on #technews, and hear real stories from #developers.",
+    "tags": [
+      "Software Development"
+    ],
+    "links": [
+      {
+        "title": "Website",
+        "url": "https://www.wearedevelopers.com/"
+      },
+      {
+        "title": "Video Archive",
+        "url": "https://www.wearedevelopers.com/en/videos"
+      },
+      {
+        "title": "YouTube",
+        "url": "https://www.youtube.com/@_wearedevs"
+      }
+    ]
+  },
+  {
+    "title": "Web Summit",
+    "description": "Web Summit runs the world’s largest technology events, connecting people and ideas that change the world.",
+    "tags": [
+      "Web"
+    ],
+    "links": [
+      {
+        "title": "Website",
+        "url": "https://websummit.com/"
+      },
+      {
+        "title": "YouTube",
+        "url": "https://www.youtube.com/@websummit"
+      }
+    ]
+  }
+]
