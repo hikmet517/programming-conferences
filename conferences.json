@@ -856,6 +856,23 @@
     ]
   },
   {
+    "title": "Linux Plumbers Conference",
+    "description": "The Linux Plumbers Conference is the premier event for developers working at all levels of the plumbing layer and beyond.",
+    "tags": [
+      "GNU/Linux"
+    ],
+    "links": [
+      {
+        "title": "Website",
+        "url": "https://lpc.events/"
+      },
+      {
+        "title": "YouTube",
+        "url": "https://www.youtube.com/@LinuxPlumbersConference"
+      }
+    ]
+  },
+  {
     "title": "Local-First Software (LoFi)",
     "description": "Experience apps that work offline, keep your data private, and sync seamlessly across your devices. Your data stays with you, not locked in the cloud.",
     "links": [

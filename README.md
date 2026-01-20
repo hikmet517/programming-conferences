@@ -459,6 +459,16 @@ Designed for lead developers, engineering managers, & CTOs, LeadDev is an online
 Tags: `Leadership`, `Management`
 
 
+## Linux Plumbers Conference
+
+The Linux Plumbers Conference is the premier event for developers working at all levels of the plumbing layer and beyond.
+
+- [Website](https://lpc.events/)
+- [YouTube](https://www.youtube.com/@LinuxPlumbersConference)
+
+Tags: `GNU/Linux`
+
+
 ## Local-First Software (LoFi)
 
 Experience apps that work offline, keep your data private, and sync seamlessly across your devices. Your data stays with you, not locked in the cloud.
