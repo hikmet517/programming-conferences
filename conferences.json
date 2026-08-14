@@ -1230,6 +1230,23 @@
     ]
   },
   {
+    "title": "Software Should Work",
+    "description": "An independent conference on software reliability.",
+    "tags": [
+      "Software Reliability"
+    ],
+    "links": [
+      {
+        "title": "Website",
+        "url": "https://softwareshould.work/"
+      },
+      {
+        "title": "YouTube",
+        "url": "https://www.youtube.com/@softwareshouldwork"
+      }
+    ]
+  },
+  {
     "title": "Strange Loop Conference",
     "description": "Strange Loop was a multi-disciplinary conference that brought together the developers and thinkers building tomorrow's technology in fields such as emerging languages, alternative databases, concurrency, distributed systems, security, and the web.",
     "links": [

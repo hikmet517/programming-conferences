@@ -660,6 +660,16 @@ Founded in 2013, SeaGL (the Seattle GNU/Linux Conference) is a free—as in free
 Tags: `GNU/Linux`, `Free Software`
 
 
+## Software Should Work
+
+An independent conference on software reliability.
+
+- [Website](https://softwareshould.work/)
+- [YouTube](https://www.youtube.com/@softwareshouldwork)
+
+Tags: `Software Reliability`
+
+
 ## Strange Loop Conference
 
 Strange Loop was a multi-disciplinary conference that brought together the developers and thinkers building tomorrow's technology in fields such as emerging languages, alternative databases, concurrency, distributed systems, security, and the web.
