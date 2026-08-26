@@ -418,6 +418,16 @@ JSHeroes was born out of our desire to build one of the strongest tech communiti
 Tags: `JavaScript`
 
 
+## JuliaCon
+
+Conference on the Julia programming language.
+
+- [Website](https://juliacon.org/)
+- [YouTube](https://www.youtube.com/@TheJuliaLanguage)
+
+Tags: `Julia`
+
+
 ## KotlinConf
 
 Kotlin Tutorials, Kotlin Multiplatform, Kotlin Coroutines, Kotlin Tips, Talking Kotlin Podcast.

@@ -774,6 +774,23 @@
     ]
   },
   {
+    "title": "JuliaCon",
+    "description": "Conference on the Julia programming language.",
+    "tags": [
+      "Julia"
+    ],
+    "links": [
+      {
+        "title": "Website",
+        "url": "https://juliacon.org/"
+      },
+      {
+        "title": "YouTube",
+        "url": "https://www.youtube.com/@TheJuliaLanguage"
+      }
+    ]
+  },
+  {
     "title": "KotlinConf",
     "description": "Kotlin Tutorials, Kotlin Multiplatform, Kotlin Coroutines, Kotlin Tips, Talking Kotlin Podcast.",
     "tags": [
