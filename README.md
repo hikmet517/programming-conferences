@@ -48,6 +48,16 @@ Tags: `Apple`, `macOS`, `iOS`
 - [YouTube](https://www.youtube.com/@AtmosphereConference)
 
 
+## Better Software Conference
+
+ Software is getting worse. We're here to make it better.
+
+- [Website](https://bettersoftwareconference.com/)
+- [YouTube](https://www.youtube.com/@BetterSoftwareConference)
+
+Tags: `Software Reliability`
+
+
 ## BetterSoftwareConference
 
 Software is getting worse. We're here to make it better.
@@ -220,6 +230,8 @@ Domain-Driven Design Europe is the premier software modelling and design confere
 
 - [Website](http://dddeurope.com/)
 - [YouTube](https://www.youtube.com/@ddd_eu)
+
+Tags: `Software Design`
 
 
 ## Dyalog

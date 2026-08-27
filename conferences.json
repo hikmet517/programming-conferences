@@ -81,6 +81,23 @@
     ]
   },
   {
+    "title": "Better Software Conference",
+    "description": " Software is getting worse. We're here to make it better.",
+    "tags": [
+      "Software Reliability"
+    ],
+    "links": [
+      {
+        "title": "Website",
+        "url": "https://bettersoftwareconference.com/"
+      },
+      {
+        "title": "YouTube",
+        "url": "https://www.youtube.com/@BetterSoftwareConference"
+      }
+    ]
+  },
+  {
     "title": "BetterSoftwareConference",
     "description": "Software is getting worse. We're here to make it better.",
     "links": [
@@ -393,6 +410,9 @@
   {
     "title": "Domain-Driven Design Europe",
     "description": "Domain-Driven Design Europe is the premier software modelling and design conference for senior engineers and architects working in complex environments.",
+    "tags": [
+      "Software Design"
+    ],
     "links": [
       {
         "title": "Website",
