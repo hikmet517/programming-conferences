@@ -48,6 +48,16 @@ Tags: `Apple`, `macOS`, `iOS`
 - [YouTube](https://www.youtube.com/@AtmosphereConference)
 
 
+## Better Software Conference
+
+ Software is getting worse. We're here to make it better.
+
+- [Website](https://bettersoftwareconference.com/)
+- [YouTube](https://www.youtube.com/@BetterSoftwareConference)
+
+Tags: `Software Reliability`
+
+
 ## BetterSoftwareConference
 
 Software is getting worse. We're here to make it better.

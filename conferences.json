@@ -81,6 +81,23 @@
     ]
   },
   {
+    "title": "Better Software Conference",
+    "description": " Software is getting worse. We're here to make it better.",
+    "tags": [
+      "Software Reliability"
+    ],
+    "links": [
+      {
+        "title": "Website",
+        "url": "https://bettersoftwareconference.com/"
+      },
+      {
+        "title": "YouTube",
+        "url": "https://www.youtube.com/@BetterSoftwareConference"
+      }
+    ]
+  },
+  {
     "title": "BetterSoftwareConference",
     "description": "Software is getting worse. We're here to make it better.",
     "links": [

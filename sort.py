@@ -1,8 +1,6 @@
 #!/usr/bin/env python3
 
 import json
-import os
-
 
 with open("conferences.json") as fp:
     data = json.load(fp)
