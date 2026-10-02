@@ -36,6 +36,24 @@
     ]
   },
   {
+    "title": "Akademy",
+    "description": "Akademy is the annual world summit of KDE, one of the largest Free Software communities in the world. It is a free, non-commercial event organized by the KDE Community.",
+    "tags": [
+      "UI/UX",
+      "KDE"
+    ],
+    "links": [
+      {
+        "title": "Website",
+        "url": "https://akademy.kde.org/"
+      },
+      {
+        "title": "YouTube",
+        "url": "https://www.youtube.com/@KdeOrg"
+      }
+    ]
+  },
+  {
     "title": "All Things Open",
     "description": "A universe of events and platforms focused on open source, open tech and the open web.",
     "tags": [
@@ -906,6 +924,24 @@
       {
         "title": "YouTube",
         "url": "https://www.youtube.com/@LinuxPlumbersConference"
+      }
+    ]
+  },
+  {
+    "title": "LLVM Developers' Meeting",
+    "description": "",
+    "tags": [
+      "LLVM",
+      "Compilers"
+    ],
+    "links": [
+      {
+        "title": "Website",
+        "url": "https://llvm.org/devmtg/"
+      },
+      {
+        "title": "YouTube",
+        "url": "https://www.youtube.com/@LLVMPROJ"
       }
     ]
   },

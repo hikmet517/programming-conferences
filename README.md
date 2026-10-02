@@ -23,6 +23,16 @@ AI Council is the “No BS” AI conference. Since 2013 we've been bringing toge
 Tags: `AI`, `Data Engineering`
 
 
+## Akademy
+
+Akademy is the annual world summit of KDE, one of the largest Free Software communities in the world. It is a free, non-commercial event organized by the KDE Community.
+
+- [Website](https://akademy.kde.org/)
+- [YouTube](https://www.youtube.com/@KdeOrg)
+
+Tags: `UI/UX`, `KDE`
+
+
 ## All Things Open
 
 A universe of events and platforms focused on open source, open tech and the open web.
@@ -489,6 +499,16 @@ The Linux Plumbers Conference is the premier event for developers working at all
 - [YouTube](https://www.youtube.com/@LinuxPlumbersConference)
 
 Tags: `GNU/Linux`
+
+
+## LLVM Developers' Meeting
+
+
+
+- [Website](https://llvm.org/devmtg/)
+- [YouTube](https://www.youtube.com/@LLVMPROJ)
+
+Tags: `LLVM`, `Compilers`
 
 
 ## Local-First Software (LoFi)
