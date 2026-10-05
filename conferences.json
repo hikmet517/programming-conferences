@@ -613,6 +613,25 @@
     ]
   },
   {
+    "title": "Google TechTalks",
+    "description": "Google Tech Talks is a grass-roots program at Google for sharing information of interest to the technical community.",
+    "tags": [
+      "Google",
+      "AI",
+      "LLM",
+      "Machine Learning",
+      "Go",
+      "Golang",
+      "Web"
+    ],
+    "links": [
+      {
+        "title": "YouTube",
+        "url": "https://www.youtube.com/@GoogleTechTalks"
+      }
+    ]
+  },
+  {
     "title": "Gopher Academy",
     "description": "Gopher Academy is the creative force behind GopherCon, a conference celebrating all things Go!",
     "tags": [

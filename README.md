@@ -333,6 +333,15 @@ Subscribe to join a community of creative developers and learn the latest in Goo
 Tags: `google`, `AI`, `llm`, `search engine`, `android`, `Web`, `data science`
 
 
+## Google TechTalks
+
+Google Tech Talks is a grass-roots program at Google for sharing information of interest to the technical community.
+
+- [YouTube](https://www.youtube.com/@GoogleTechTalks)
+
+Tags: `Google`, `AI`, `LLM`, `Machine Learning`, `Go`, `Golang`, `Web`
+
+
 ## Gopher Academy
 
 Gopher Academy is the creative force behind GopherCon, a conference celebrating all things Go!
